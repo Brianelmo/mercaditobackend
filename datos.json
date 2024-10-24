@@ -1,0 +1,87 @@
+[
+
+    {
+    "title": "PlayStation 1",
+    "description": "PlayStation 1 en perfecto estado, perfecta para coleccion y excibicion del producto",
+    "section":"Consolas",
+    "image": "http://localhost:8080/images/nik-b-bnM85Z35o-unsplash.webp",
+    "price":1000 
+},
+{
+    "title": "Xbox One",
+    "description": "Xbox One en perfecto estado, viene con 5 juegos incluidos en la compra del producto",
+    "section":"Consolas",
+    "image": "http://localhost:8080/images/oliver-beer-H3wPbf3-_-Q-unsplash.webp",
+    "price":900
+},
+{
+    "title": "PlayStation 5",
+    "description": "PlayStation 5 nueva en caja sellada, importada",
+    "section":"Consolas",
+    "image": "http://localhost:8080/images/nik-ads33nL7V4k-unsplash.webp",
+    "price": 1200
+},
+{
+    "title": "Consola Sega",
+    "description": "Consola Sega en perfecto estado, coleccionable importado",
+    "section":"Consolas",
+    "image": "http://localhost:8080/images/joshua-doherty-JdceP-WE8ys-unsplash.webp",
+    "price":800
+},
+{
+    "title": "Consola NES Classic Edition",
+    "description": "Nintendo Entertainment System orignal importada para coleccion",
+    "section":"Consolas",
+    "image": "http://localhost:8080/images/jason-leung-ZV7lnfyQLmA-unsplash.webp",
+    "price":1500
+},
+{
+    "title": "Nintendo Switch",
+    "description": "Consola Nintendo Switch importada, incluye dos juegos de regalo",
+    "section":"Consolas",
+    "image": "http://localhost:8080/images/enrique-vidal-flores-zsXvRKtsf6Q-unsplash.webp",
+    "price":1200 
+},
+{
+    "title": "Juego de rol D&D",
+    "description": "Juego de rol medieval Dungeon and dragons completo con accesorios.",
+    "section":"Mesa",
+    "image": "http://localhost:8080/images/clint-bustrillos-X-A-LJVAhzk-unsplash.webp",
+    "price":600
+},
+{
+    "title": "Juego de cartas UNO",
+    "description": "Paquete de cartas para el juego UNO",
+    "section":"Mesa",
+    "image": "http://localhost:8080/images/adam-mills-jmjxl6ms1vA-unsplash.webp",
+    "price": 400
+},
+{
+    "title": "Juego de mesa Jenga",
+    "description": "Juego de mesa familiar Jenga piezas de madera reforzadas",
+    "section":"Mesa",
+    "image": "http://localhost:8080/images/oscar-ivan-esquivel-arteaga-iT15xdxmLxw-unsplash.webp",
+    "price":500 
+},
+{
+    "title": "Monopoly",
+    "description": "Juego de mesa familiar Monopoly original importado",
+    "section":"Mesa",
+    "image": "http://localhost:8080/images/maria-lin-kim-IumYoHVeSmI-unsplash.webp",
+    "price":700 
+},
+{
+    "title": "Juego de mesa estrategico",
+    "description": "Juego de mesa estrategico perfecto para juntadas familiares o con amigos",
+    "section":"Mesa",
+    "image": "http://localhost:8080/images/karthik-balakrishnan-NrS53eUKgiE-unsplash.webp",
+    "price": 500
+},
+{
+    "title": "Ajedrez",
+    "description": "Juego de mesa ajedrez, version miniatura piezas de alta calidad",
+    "section":"Mesa",
+    "image": "http://localhost:8080/images/liam-tucker-cVMaxt672ss-unsplash.webp",
+    "price": 800
+}
+]
